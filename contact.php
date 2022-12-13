@@ -11,5 +11,5 @@
 
     mail($email_to, $subject, $email_body);
     
-    Header("Location: http://www.jeffblack.info/#contact-info")
+    Header("Location: https://jtblackk.github.io/#contact-info")
 ?>
