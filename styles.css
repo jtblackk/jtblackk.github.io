@@ -26,10 +26,12 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    text-align: center;
+    
     justify-content: center;}
 
-
+.center_text{
+    text-align: center;
+}
 strong em {
     color: yellow;
 }
@@ -453,6 +455,8 @@ form textarea{
     flex-direction: column;
 }
 
+
 .bottom-space{
     margin-bottom: 30px;
 }
+
